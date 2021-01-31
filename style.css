@@ -94,6 +94,10 @@ p {
   margin: 20px 0;
   font-weight: 300;
 }
+p::first-letter {
+  font-size: 1.5rem;
+  color: #3DADF2;
+}
 .btn {
   background: #3DADF2;
   color: #fff;
